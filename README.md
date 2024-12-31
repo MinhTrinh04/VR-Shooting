@@ -10,10 +10,10 @@
 
 ### Phần cứng
 - Máy tính chạy hệ điều hành Windows, macOS, hoặc Linux.
-- Kính VR Pico (khuyến nghị phiên bản mới nhất).
-- RAM tối thiểu: 8GB (khuyến nghị 16GB trở lên để phát triển mượt mà).
+- Kính VR Pico.
+- RAM tối thiểu: 8GB.
 - CPU: Intel Core i5 hoặc AMD Ryzen 5 trở lên.
-- GPU: Hỗ trợ DirectX 11 (NVIDIA GTX 1060 hoặc tương đương trở lên).
+- GPU: Hỗ trợ DirectX 11.
 
 ### Phần mềm
 - Unity Editor (phiên bản Unity từ **2021.3.6 LTS** trở lên).
